@@ -1,3 +1,5 @@
+Run the graphicsRemote file to execute program.
+
 To run multiple simulations on the same window, after first simulation has completed click 
 the RESET Btn, change whatever parameters needed for the new simulation, then click the START Btn 
 to begin next simulation. 
