@@ -1,0 +1,17 @@
+certifi==2020.6.20
+cycler==0.10.0
+kiwisolver==1.2.0
+llvmlite==0.34.0
+matplotlib==3.3.2
+numba==0.51.2
+numpy==1.19.3
+pandas==1.1.4
+Pillow==8.0.1
+pyobjc-core==6.2.2
+pyobjc-framework-Cocoa==6.2.2
+pyobjc-framework-Quartz==6.2.2
+pyparsing==2.4.7
+python-dateutil==2.8.1
+pytz==2020.1
+scipy==1.5.3
+six==1.15.0
